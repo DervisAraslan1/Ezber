@@ -1,0 +1,1400 @@
+the|belirli tanımlık (o, şu)
+be|olmak
+and|ve
+of|-in, -ın; -den
+to|-e, -a; -meye
+a|bir
+in|içinde, -de
+have|sahip olmak, -si olmak
+it|o (cansız, hayvan)
+you|sen, siz
+he|o (erkek)
+for|için
+they|onlar
+not|değil
+that|şu, o; -dığı, ki
+we|biz
+on|üzerinde, -de
+with|ile, birlikte
+this|bu
+i|ben
+do|yapmak, etmek
+as|olarak, gibi, -ken
+at|-de, -da
+she|o (kadın)
+but|ama, fakat
+from|-den, -dan
+by|tarafından, yanında
+will|-ecek, -acak
+or|veya, ya da
+say|söylemek, demek
+go|gitmek
+so|bu yüzden, o kadar
+all|hepsi, bütün
+if|eğer
+one|bir, biri
+would|-erdi, -ecekti
+about|hakkında, yaklaşık
+can|-ebilmek; konserve kutusu
+which|hangi, -ki o
+there|orada, orası
+know|bilmek, tanımak
+more|daha, daha fazla
+get|almak, elde etmek, olmak
+who|kim
+like|sevmek, hoşlanmak; gibi
+when|ne zaman, -dığında
+think|düşünmek, sanmak
+make|yapmak, üretmek
+time|zaman, vakit, kez
+see|görmek
+what|ne
+up|yukarı
+some|biraz, bazı
+other|diğer, başka
+out|dışarı, dışarıda
+good|iyi, güzel
+people|insanlar
+year|yıl, sene
+take|almak, götürmek, sürmek
+no|hayır, hiç
+well|iyi, peki; kuyu
+because|çünkü
+very|çok
+just|sadece, henüz, az önce
+come|gelmek
+could|-ebilirdi, -ebildi
+work|çalışmak, iş
+use|kullanmak
+than|-den (daha)
+now|şimdi
+then|sonra, o zaman
+also|ayrıca, de/da
+into|içine
+only|sadece, tek
+look|bakmak, görünmek
+want|istemek
+give|vermek
+first|birinci, ilk, önce
+new|yeni
+way|yol, yöntem, biçim
+find|bulmak
+over|üzerinde, bitmiş, boyunca
+any|herhangi, hiç
+after|sonra
+day|gün
+where|nerede, nereye
+thing|şey
+most|en çok, çoğu
+should|-meli, -malı
+need|ihtiyaç duymak, gerek
+much|çok, fazla
+right|doğru, sağ, hak
+how|nasıl
+back|geri, sırt, arka
+mean|demek istemek, anlamına gelmek; cimri
+even|bile, hatta; düz, çift (sayı)
+may|-ebilir; mayıs
+here|burada, buraya
+many|birçok, çok
+such|böyle, öyle
+last|son, geçen; sürmek
+child|çocuk
+tell|söylemek, anlatmak
+really|gerçekten
+call|aramak, çağırmak, adlandırmak
+before|önce
+company|şirket, arkadaşlık
+through|içinden, boyunca, sayesinde
+down|aşağı
+show|göstermek, gösteri
+life|hayat, yaşam
+man|adam, erkek
+change|değiştirmek, değişiklik, bozuk para
+place|yer, koymak
+long|uzun
+between|arasında
+feel|hissetmek
+too|de/da, fazla (çok)
+still|hâlâ, yine de; hareketsiz
+problem|sorun, problem
+write|yazmak
+same|aynı
+lot|çok, parti, arsa
+great|harika, büyük
+try|denemek, çalışmak
+leave|ayrılmak, bırakmak; izin
+number|sayı, numara
+both|ikisi de, her ikisi
+own|kendi, sahip olmak
+part|parça, bölüm, kısım
+point|nokta, puan, işaret etmek
+little|küçük, az
+help|yardım etmek, yardım
+ask|sormak, istemek
+meet|buluşmak, tanışmak, karşılamak
+start|başlamak, başlangıç
+talk|konuşmak, konuşma
+something|bir şey
+put|koymak
+another|başka, bir diğer
+become|olmak (haline gelmek)
+interest|ilgi, faiz, ilgilendirmek
+country|ülke, kırsal
+old|eski, yaşlı
+each|her, her biri
+school|okul
+late|geç, geçmiş
+high|yüksek
+different|farklı
+off|kapalı, -den uzak
+next|sonraki, gelecek, yanında
+end|son, bitmek, bitirmek
+live|yaşamak, oturmak; canlı
+why|neden, niçin
+while|-iken, süre
+world|dünya
+week|hafta
+play|oynamak, çalmak, oyun
+might|-ebilir (belki); güç
+must|-meli, zorunda olmak
+home|ev, yuva
+never|asla, hiç
+include|içermek, dahil etmek
+course|kurs, ders, tabii (of course), rota
+house|ev
+report|rapor, bildirmek
+group|grup
+case|durum, dava, kılıf
+woman|kadın
+around|etrafında, civarında
+book|kitap, rezervasyon yapmak
+family|aile
+seem|görünmek, gibi gelmek
+let|izin vermek, -elim
+again|tekrar, yine
+kind|tür, çeşit; nazik
+keep|tutmak, saklamak, devam etmek
+hear|duymak
+system|sistem
+every|her
+question|soru, sorgulamak
+during|sırasında, boyunca
+always|her zaman
+big|büyük
+set|ayarlamak, koymak, takım
+small|küçük
+study|ders çalışmak, incelemek, çalışma
+follow|takip etmek, izlemek
+begin|başlamak
+important|önemli
+since|-den beri, -dığı için
+run|koşmak, işletmek, çalıştırmak
+under|altında
+turn|dönmek, çevirmek, sıra
+few|az, birkaç
+bring|getirmek
+early|erken
+hand|el, uzatmak
+state|devlet, eyalet, durum, belirtmek
+move|hareket etmek, taşınmak
+money|para
+fact|gerçek
+however|ancak, bununla birlikte
+area|alan, bölge
+provide|sağlamak
+name|ad, isim
+read|okumak
+friend|arkadaş
+month|ay
+large|büyük, geniş
+business|iş, ticaret
+without|-sız, olmadan
+information|bilgi
+open|açmak, açık
+order|sipariş, düzen, emir, sıralamak
+government|hükümet
+word|kelime, söz
+issue|konu, sorun, sayı (dergi), yayımlamak
+market|pazar, piyasa
+pay|ödemek, maaş
+build|inşa etmek, kurmak
+hold|tutmak, düzenlemek
+service|hizmet, servis
+against|karşı
+believe|inanmak
+second|ikinci, saniye
+though|gerçi, -e rağmen
+yes|evet
+love|sevmek, aşk
+increase|artmak, artırmak, artış
+job|iş, meslek
+plan|plan, planlamak
+result|sonuç
+away|uzakta, uzağa
+example|örnek
+happen|olmak (meydana gelmek)
+offer|teklif etmek, teklif
+young|genç
+close|kapatmak, yakın
+program|program
+lead|liderlik etmek, yol açmak; kurşun
+buy|satın almak
+understand|anlamak
+thank|teşekkür etmek
+far|uzak
+today|bugün
+hour|saat
+student|öğrenci
+face|yüz, yüzleşmek
+hope|umut, ummak
+idea|fikir
+cost|maliyet, mal olmak
+less|daha az
+room|oda, yer
+until|-e kadar
+reason|sebep, neden
+form|form, biçim, oluşturmak
+spend|harcamak, geçirmek (zaman)
+head|baş, kafa, yönelmek
+car|araba
+learn|öğrenmek
+level|seviye
+person|kişi
+experience|deneyim, yaşamak
+once|bir kez, bir zamanlar, -ince
+member|üye
+enough|yeterli, yeterince
+bad|kötü
+city|şehir
+night|gece
+able|yapabilen, muktedir
+support|desteklemek, destek
+whether|-ip -mediği
+line|çizgi, sıra, hat
+present|hediye, şimdiki, sunmak
+side|taraf, yan
+quite|oldukça
+although|-e rağmen, gerçi
+sure|emin, tabii
+term|dönem, terim
+least|en az
+age|yaş, çağ
+low|düşük, alçak
+speak|konuşmak
+within|içinde, dahilinde
+process|süreç, işlemek
+public|halk, kamu, genel
+often|sık sık
+train|tren, eğitmek
+possible|mümkün
+actually|aslında
+rather|oldukça, daha ziyade
+view|görüş, manzara
+together|birlikte
+consider|göz önünde bulundurmak, düşünmek
+price|fiyat
+parent|ebeveyn, anne/baba
+hard|zor, sert, çok çalışarak
+party|parti, taraf
+local|yerel
+control|kontrol, denetlemek
+already|çoktan, zaten
+concern|endişe, ilgilendirmek
+product|ürün
+lose|kaybetmek
+story|hikâye, kat
+almost|neredeyse
+continue|devam etmek
+stand|ayakta durmak, dayanmak
+whole|bütün, tüm
+yet|henüz, yine de
+rate|oran, değerlendirmek
+care|önemsemek, bakım
+expect|beklemek, ummak
+effect|etki, sonuç
+sort|tür, sıralamak
+ever|hiç, şimdiye dek
+anything|herhangi bir şey
+cause|sebep olmak, neden
+fall|düşmek, sonbahar
+deal|anlaşma, ilgilenmek (deal with)
+water|su, sulamak
+send|göndermek
+allow|izin vermek
+soon|yakında, birazdan
+watch|izlemek, kol saati
+base|temel, üs, dayandırmak
+probably|muhtemelen
+suggest|önermek, ima etmek
+past|geçmiş, geçen
+power|güç, iktidar
+test|sınav, test etmek
+visit|ziyaret etmek, ziyaret
+center|merkez
+grow|büyümek, yetiştirmek
+nothing|hiçbir şey
+return|dönmek, iade etmek, dönüş
+mother|anne
+walk|yürümek, yürüyüş
+matter|önemli olmak, mesele, madde
+mind|zihin, akıl, sakınca görmek
+value|değer
+office|ofis, makam
+record|kayıt, kaydetmek, rekor
+stay|kalmak
+force|güç, zorlamak
+stop|durmak, durdurmak, durak
+several|birkaç
+light|ışık, hafif, açık (renk)
+develop|geliştirmek, gelişmek
+remember|hatırlamak
+bit|biraz, parça
+share|paylaşmak, hisse
+real|gerçek
+answer|cevap, cevaplamak
+sit|oturmak
+figure|rakam, şekil, figür
+letter|mektup, harf
+decide|karar vermek
+language|dil, lisan
+subject|konu, ders, özne
+class|sınıf, ders
+development|gelişme, kalkınma
+town|kasaba, şehir
+half|yarım
+minute|dakika
+food|yiyecek, yemek
+break|kırmak, ara, mola
+clear|açık, net, temizlemek
+future|gelecek
+either|ikisinden biri, -de (olumsuz)
+ago|önce (zaman)
+per|başına, her bir
+remain|kalmak
+top|üst, tepe
+among|arasında (çok şey)
+win|kazanmak
+color|renk
+involve|içermek, dahil etmek
+reach|ulaşmak, uzanmak
+social|sosyal, toplumsal
+period|dönem, süre, nokta (ABD)
+across|karşısında, bir uçtan bir uca
+note|not, not etmek, nota
+history|tarih
+create|yaratmak, oluşturmak
+drive|araba sürmek
+along|boyunca
+type|tür, tip, yazmak (klavye)
+sound|ses, gibi görünmek
+eye|göz
+music|müzik
+game|oyun, maç
+political|siyasi, politik
+free|ücretsiz, serbest, özgür
+receive|almak, teslim almak
+moment|an
+sale|satış, indirim
+policy|politika, poliçe
+further|daha ileri, ayrıca
+body|vücut, gövde, ceset
+require|gerektirmek
+wait|beklemek
+general|genel, general
+appear|görünmek, ortaya çıkmak
+toward|-e doğru
+team|takım, ekip
+easy|kolay
+individual|birey, bireysel
+full|dolu, tam
+black|siyah
+sense|his, anlam, algılamak
+perhaps|belki
+add|eklemek
+rule|kural, yönetmek
+pass|geçmek, uzatmak, geçiş
+produce|üretmek
+sell|satmak
+short|kısa
+agree|aynı fikirde olmak, kabul etmek
+law|kanun, hukuk
+everything|her şey
+research|araştırma, araştırmak
+cover|örtmek, kapak
+paper|kâğıt, gazete
+position|pozisyon, konum
+near|yakın, yakınında
+human|insan
+computer|bilgisayar
+situation|durum
+staff|personel
+activity|etkinlik, faaliyet
+film|film
+morning|sabah
+war|savaş
+account|hesap
+shop|dükkân, alışveriş yapmak
+major|büyük, ana, önemli, binbaşı
+someone|birisi
+above|yukarıda, üstünde
+design|tasarım, tasarlamak
+event|olay, etkinlik
+special|özel
+sometimes|bazen
+condition|durum, koşul
+carry|taşımak
+choose|seçmek
+father|baba
+decision|karar
+table|masa, tablo
+certain|belirli, emin
+forward|ileri
+main|ana, başlıca
+die|ölmek
+bear|ayı; katlanmak, taşımak
+cut|kesmek, kesik
+describe|tarif etmek, tanımlamak
+himself|kendisi (erkek)
+available|mevcut, müsait
+especially|özellikle
+strong|güçlü, sağlam
+rise|yükselmek, artış
+girl|kız
+maybe|belki
+community|topluluk
+else|başka
+particular|belirli, özel
+role|rol
+join|katılmak, birleştirmek
+difficult|zor
+please|lütfen, memnun etmek
+detail|ayrıntı
+difference|fark
+action|eylem, hareket
+health|sağlık
+eat|yemek yemek
+step|adım
+true|doğru, gerçek
+phone|telefon
+themselves|kendileri
+draw|çizmek, çekmek
+white|beyaz
+date|tarih, randevu
+practice|pratik, uygulama
+model|model
+raise|kaldırmak, yetiştirmek, zam
+customer|müşteri
+front|ön
+explain|açıklamak
+door|kapı
+outside|dışarıda, dış
+behind|arkasında
+economic|ekonomik
+site|yer, alan, site
+approach|yaklaşım, yaklaşmak
+teacher|öğretmen
+land|arazi, kara, inmek
+charge|ücret, suçlamak, şarj etmek
+finally|sonunda, nihayet
+sign|işaret, tabela, imzalamak
+claim|iddia etmek, talep
+relationship|ilişki
+travel|seyahat etmek, seyahat
+enjoy|keyif almak, hoşlanmak
+death|ölüm
+nice|güzel, hoş
+amount|miktar
+improve|geliştirmek, iyileşmek
+picture|resim, fotoğraf
+boy|erkek çocuk, oğlan
+regard|saymak, görmek, saygı
+organization|kuruluş, örgüt
+happy|mutlu
+couple|çift
+act|davranmak, eylem, oyunculuk yapmak
+range|aralık, yelpaze
+quality|kalite, nitelik
+project|proje
+round|yuvarlak, tur
+opportunity|fırsat
+road|yol
+accord|uyum; (according to) -e göre
+list|liste
+wish|dilemek, dilek
+therefore|bu nedenle
+wear|giymek, takmak
+fund|fon, fonlamak
+rest|dinlenmek, geri kalan
+kid|çocuk, şaka yapmak
+industry|sanayi, endüstri
+education|eğitim
+measure|ölçmek, önlem
+kill|öldürmek
+serve|hizmet etmek, servis yapmak
+likely|muhtemel
+certainly|kesinlikle
+national|ulusal
+itself|kendisi (cansız)
+teach|öğretmek
+field|alan, tarla
+security|güvenlik
+air|hava
+benefit|fayda, yarar sağlamak
+trade|ticaret, takas etmek
+risk|risk
+news|haber
+standard|standart
+vote|oy, oy vermek
+percent|yüzde
+focus|odaklanmak, odak
+stage|sahne, aşama
+space|alan, boşluk, uzay
+instead|yerine
+realize|fark etmek, anlamak
+usually|genellikle
+data|veri
+single|tek, bekâr
+address|adres, ele almak, hitap etmek
+performance|performans, gösteri
+chance|şans, fırsat
+accept|kabul etmek
+society|toplum, dernek
+technology|teknoloji
+mention|bahsetmek
+choice|seçim, tercih
+save|kurtarmak, biriktirmek, kaydetmek
+common|yaygın, ortak
+culture|kültür
+total|toplam
+demand|talep, talep etmek
+material|malzeme, madde
+limit|sınır, sınırlamak
+listen|dinlemek
+due|-den dolayı, vadesi gelmiş
+wrong|yanlış
+foot|ayak
+effort|çaba
+attention|dikkat, ilgi
+upon|üzerine
+check|kontrol etmek, çek
+complete|tamamlamak, tam
+lie|yalan söylemek, uzanmak
+pick|seçmek, toplamak
+reduce|azaltmak
+personal|kişisel
+ground|zemin, yer
+animal|hayvan
+arrive|varmak, ulaşmak
+patient|hasta, sabırlı
+current|şimdiki, akım
+century|yüzyıl
+evidence|kanıt
+exist|var olmak
+similar|benzer
+fight|kavga etmek, savaşmak
+leader|lider
+fine|iyi, ince, para cezası
+street|sokak
+former|eski, önceki
+contact|iletişim, irtibat kurmak
+particularly|özellikle
+wife|eş, karı
+sport|spor
+prepare|hazırlamak
+discuss|tartışmak, görüşmek
+response|yanıt, tepki
+voice|ses
+piece|parça
+finish|bitirmek
+suppose|varsaymak, sanmak
+apply|başvurmak, uygulamak
+president|başkan, cumhurbaşkanı
+fire|ateş, yangın, kovmak
+compare|karşılaştırmak
+court|mahkeme, kort
+police|polis
+store|mağaza, depolamak
+poor|fakir, zavallı, kötü
+knowledge|bilgi
+laugh|gülmek
+arm|kol
+heart|kalp
+source|kaynak
+employee|çalışan, işçi
+manage|yönetmek, başarmak
+simply|basitçe, sadece
+bank|banka, kıyı
+firm|firma, sıkı
+cell|hücre, cep telefonu
+article|makale, tanımlık
+fast|hızlı, oruç
+attack|saldırmak, saldırı
+foreign|yabancı
+surprise|sürpriz, şaşırtmak
+feature|özellik
+factor|faktör, etken
+pretty|güzel, oldukça
+recently|son zamanlarda
+affect|etkilemek
+drop|düşürmek, damla
+recent|son, yeni
+relate|ilişkilendirmek, ilgili olmak
+official|resmi, yetkili
+financial|mali, finansal
+miss|özlemek, kaçırmak
+art|sanat
+campaign|kampanya
+private|özel
+pause|duraklamak, ara
+everyone|herkes
+forget|unutmak
+page|sayfa
+worry|endişelenmek, endişe
+summer|yaz
+drink|içmek, içecek
+opinion|fikir, görüş
+park|park, park etmek
+represent|temsil etmek
+key|anahtar, kilit
+inside|içeride, iç
+manager|yönetici, müdür
+international|uluslararası
+contain|içermek
+notice|fark etmek, duyuru
+wonder|merak etmek, harika
+nature|doğa
+structure|yapı
+section|bölüm
+myself|kendim
+exactly|tam olarak, aynen
+plant|bitki, fabrika, dikmek
+paint|boya, boyamak
+worker|işçi, çalışan
+press|basmak, basın
+whatever|her ne
+necessary|gerekli
+region|bölge
+growth|büyüme
+evening|akşam
+influence|etkilemek, etki
+respect|saygı, saygı duymak
+various|çeşitli
+catch|yakalamak
+thus|böylece
+skill|beceri
+attempt|girişim, teşebbüs etmek
+son|oğul
+simple|basit
+medium|orta, ortam, araç
+average|ortalama
+stock|stok, hisse senedi
+management|yönetim
+character|karakter
+bed|yatak
+hit|vurmak, çarpmak
+establish|kurmak
+indeed|gerçekten
+final|son, final
+economy|ekonomi
+fit|uymak, formda
+guy|adam, çocuk (argo)
+function|işlev, fonksiyon
+yesterday|dün
+image|görüntü, imaj
+size|boyut, beden
+behavior|davranış
+addition|ekleme, ilave
+determine|belirlemek
+station|istasyon
+population|nüfus
+fail|başarısız olmak, sınıfta kalmak
+environment|çevre, ortam
+production|üretim
+contract|sözleşme
+player|oyuncu
+comment|yorum
+enter|girmek
+occur|meydana gelmek
+alone|yalnız
+significant|önemli
+drug|ilaç, uyuşturucu
+wall|duvar
+series|dizi, seri
+direct|doğrudan, yönetmek
+success|başarı
+tomorrow|yarın
+director|yönetmen, müdür
+clearly|açıkça
+lack|eksiklik, -den yoksun olmak
+review|inceleme, gözden geçirmek
+depend|bağlı olmak
+race|yarış, ırk
+recognize|tanımak
+window|pencere
+purpose|amaç
+department|bölüm, departman
+gain|kazanmak, elde etmek
+tree|ağaç
+college|üniversite, yüksekokul
+argue|tartışmak, savunmak
+board|tahta, kurul, binmek
+holiday|tatil, bayram
+mark|işaret, not, işaretlemek
+church|kilise
+machine|makine
+achieve|başarmak
+item|öğe, madde, ürün
+prove|kanıtlamak
+cent|sent
+season|mevsim, sezon
+floor|zemin, kat
+stuff|şey(ler), malzeme, doldurmak
+wide|geniş
+anyone|herhangi biri
+method|yöntem
+analysis|analiz
+election|seçim
+military|askeri, ordu
+hotel|otel
+club|kulüp
+below|aşağıda, altında
+movie|film
+doctor|doktor
+discussion|tartışma, görüşme
+sorry|üzgün, özür dilerim
+challenge|meydan okuma, zorluk
+nation|ulus
+nearly|neredeyse
+statement|ifade, açıklama
+link|bağlantı, bağlamak
+despite|-e rağmen
+introduce|tanıtmak
+advantage|avantaj
+ready|hazır
+marry|evlenmek
+strike|grev, vurmak
+mile|mil
+seek|aramak, peşinde olmak
+ability|yetenek
+unit|birim, ünite
+card|kart
+hospital|hastane
+quickly|hızlıca
+interview|görüşme, röportaj
+agreement|anlaşma
+release|serbest bırakmak, yayınlamak
+tax|vergi
+solution|çözüm
+capital|başkent, sermaye, büyük harf
+popular|popüler, sevilen
+specific|belirli, özel
+beautiful|güzel
+fear|korku, korkmak
+aim|hedef, amaçlamak
+television|televizyon
+serious|ciddi
+target|hedef
+degree|derece, diploma
+pull|çekmek
+red|kırmızı
+husband|koca, eş
+access|erişim, erişmek
+movement|hareket
+treat|davranmak, tedavi etmek, ikram
+identify|tanımlamak, teşhis etmek
+loss|kayıp, zarar
+shall|-ecek, -elim mi
+modern|modern
+pressure|baskı, basınç
+bus|otobüs
+treatment|tedavi, muamele
+conference|konferans
+yourself|kendin
+supply|tedarik, sağlamak
+village|köy
+worth|değer, değerinde
+natural|doğal
+express|ifade etmek, ekspres
+indicate|göstermek, belirtmek
+attend|katılmak
+brother|erkek kardeş
+investment|yatırım
+score|skor, puan almak
+organize|düzenlemek
+trip|gezi, seyahat
+beyond|ötesinde
+sleep|uyumak, uyku
+fish|balık, balık tutmak
+promise|söz vermek, söz
+potential|potansiyel, olası
+energy|enerji
+trouble|sorun, dert
+relation|ilişki, akraba
+touch|dokunmak
+file|dosya
+middle|orta
+bar|bar, çubuk
+suffer|acı çekmek
+strategy|strateji
+deep|derin
+except|hariç
+clean|temiz, temizlemek
+tend|eğilimli olmak
+advance|ilerlemek, avans
+fill|doldurmak
+star|yıldız
+network|ağ
+generally|genellikle
+operation|ameliyat, operasyon, işletme
+match|maç, kibrit, eşleşmek
+avoid|kaçınmak
+seat|koltuk, oturacak yer
+throw|atmak, fırlatmak
+task|görev
+normal|normal
+goal|hedef, gol
+associate|ilişkilendirmek, ortak
+blue|mavi
+positive|olumlu, pozitif
+option|seçenek
+box|kutu
+huge|kocaman
+message|mesaj
+instance|örnek (for instance: örneğin)
+style|stil, tarz
+refer|atıfta bulunmak, yönlendirmek
+cold|soğuk, nezle
+push|itmek
+quarter|çeyrek
+assume|varsaymak
+baby|bebek
+successful|başarılı
+sing|şarkı söylemek
+doubt|şüphe, şüphe etmek
+competition|yarışma, rekabet
+theory|teori
+propose|önermek, evlenme teklif etmek
+reference|referans, atıf
+argument|tartışma, argüman
+adult|yetişkin
+fly|uçmak, sinek
+document|belge
+pattern|desen, kalıp
+application|başvuru, uygulama
+hot|sıcak, acı
+obviously|belli ki, açıkça
+unclear|belirsiz, net olmayan
+bill|fatura, yasa tasarısı
+search|aramak, arama
+separate|ayrı, ayırmak
+central|merkezi
+career|kariyer
+anyway|neyse, yine de
+speech|konuşma, nutuk
+dog|köpek
+officer|memur, subay
+throughout|boyunca, her yerinde
+oil|yağ, petrol
+dress|elbise, giyinmek
+profit|kâr
+guess|tahmin etmek
+fun|eğlence, eğlenceli
+protect|korumak
+resource|kaynak
+science|bilim
+disease|hastalık
+balance|denge, bakiye
+damage|hasar, zarar vermek
+basis|temel, esas
+author|yazar
+basic|temel
+encourage|teşvik etmek, cesaretlendirmek
+hair|saç
+male|erkek
+operate|işletmek, ameliyat etmek
+reflect|yansıtmak
+exercise|egzersiz, alıştırma
+useful|faydalı
+restaurant|restoran
+income|gelir
+property|mülk, özellik
+previous|önceki
+dark|karanlık, koyu
+imagine|hayal etmek
+okay|tamam
+earn|kazanmak (para)
+daughter|kız evlat
+post|göndermek, gönderi, direk
+newspaper|gazete
+define|tanımlamak
+conclusion|sonuç
+clock|saat (duvar)
+everybody|herkes
+weekend|hafta sonu
+perform|gerçekleştirmek, sahne almak
+professional|profesyonel
+mine|benimki; maden
+debate|tartışma, münazara
+memory|hafıza, anı
+green|yeşil
+song|şarkı
+object|nesne, itiraz etmek
+maintain|sürdürmek, bakımını yapmak
+credit|kredi, itibar
+ring|yüzük, zil, çalmak
+discover|keşfetmek
+dead|ölü
+afternoon|öğleden sonra
+prefer|tercih etmek
+extend|uzatmak, genişletmek
+possibility|olasılık
+direction|yön
+facility|tesis, imkân
+variety|çeşitlilik
+daily|günlük
+clothes|kıyafetler
+screen|ekran
+track|iz, parkur, takip etmek
+dance|dans etmek, dans
+completely|tamamen
+female|kadın, dişi
+responsibility|sorumluluk
+original|orijinal, özgün
+sister|kız kardeş
+rock|kaya, sallamak
+dream|rüya, hayal, hayal etmek
+nor|ne de
+university|üniversite
+easily|kolayca
+agency|ajans, kurum
+dollar|dolar
+garden|bahçe
+fix|tamir etmek, düzeltmek
+ahead|ileride, önde
+cross|geçmek, çapraz, haç
+yeah|evet (günlük)
+candidate|aday
+weight|ağırlık, kilo
+legal|yasal, hukuki
+proposal|öneri, teklif
+version|sürüm, versiyon
+conversation|sohbet, konuşma
+somebody|birisi
+pound|sterlin, pound
+magazine|dergi
+shape|şekil, şekillendirmek
+sea|deniz
+immediately|hemen
+welcome|hoş geldiniz, karşılamak
+smile|gülümsemek
+communication|iletişim
+agent|ajan, temsilci
+traditional|geleneksel
+replace|değiştirmek, yerine koymak
+judge|hâkim, yargılamak
+herself|kendisi (kadın)
+suddenly|aniden
+generation|nesil, kuşak
+estimate|tahmin etmek, tahmin
+favorite|en sevilen, favori
+difficulty|zorluk
+purchase|satın almak, satın alma
+shoot|ateş etmek, çekim yapmak
+announce|duyurmak
+unless|-medikçe, -mezse
+independent|bağımsız
+recommend|tavsiye etmek
+survey|anket
+majority|çoğunluk
+stick|sopa, yapıştırmak, bağlı kalmak
+request|istek, rica etmek
+rich|zengin
+wind|rüzgâr; sarmak
+none|hiçbiri
+exchange|değişim, değiş tokuş etmek
+budget|bütçe
+famous|ünlü
+blood|kan
+appropriate|uygun
+block|blok, engellemek
+warm|ılık, sıcak
+count|saymak
+scene|sahne, olay yeri
+writer|yazar
+content|içerik, memnun
+prevent|önlemek
+safe|güvenli, kasa
+invite|davet etmek
+mix|karıştırmak
+element|element, öğe
+effective|etkili
+correct|doğru, düzeltmek
+medical|tıbbi
+admit|itiraf etmek, kabul etmek
+beat|yenmek, dövmek, ritim
+telephone|telefon
+copy|kopya, kopyalamak
+committee|komite, kurul
+aware|farkında
+advice|tavsiye
+handle|başa çıkmak, sap
+glass|cam, bardak
+trial|deneme, duruşma
+stress|stres, vurgulamak
+radio|radyo
+administration|yönetim, idare
+complex|karmaşık, kompleks
+text|metin, mesaj atmak
+context|bağlam
+ride|binmek, sürmek
+directly|doğrudan
+heavy|ağır
+remove|kaldırmak, çıkarmak
+conduct|yürütmek, davranış
+equipment|ekipman
+otherwise|aksi takdirde
+title|başlık, unvan
+extra|ekstra, fazladan
+executive|yönetici
+chair|sandalye, başkanlık etmek
+expensive|pahalı
+sample|örnek, numune
+sex|cinsiyet, seks
+deliver|teslim etmek
+video|video
+connection|bağlantı
+primary|birincil, ana
+weather|hava durumu
+collect|toplamak
+inform|bilgilendirmek
+principle|ilke
+straight|düz, dosdoğru
+appeal|başvuru, hitap etmek, itiraz
+highly|son derece
+trust|güvenmek, güven
+wonderful|harika
+flat|düz, daire (ev)
+absolutely|kesinlikle
+flow|akış, akmak
+fair|adil, fuar
+additional|ek, ilave
+responsible|sorumlu
+farm|çiftlik
+collection|koleksiyon
+hang|asmak
+negative|olumsuz, negatif
+band|müzik grubu, bant
+relative|akraba, göreli
+tour|tur, gezi
+alternative|alternatif
+software|yazılım
+pair|çift
+ship|gemi, sevk etmek
+attitude|tutum, tavır
+cheap|ucuz
+double|çift, iki katı
+leg|bacak
+observe|gözlemlemek
+sentence|cümle, ceza
+print|basmak, yazdırmak
+progress|ilerleme
+truth|gerçek, doğruluk
+nobody|hiç kimse
+examine|incelemek, muayene etmek
+lay|sermek, koymak, yumurtlamak
+speed|hız
+politics|siyaset
+reply|yanıtlamak, yanıt
+display|sergilemek, ekran
+transfer|aktarmak, transfer
+perfect|mükemmel
+slightly|hafifçe, biraz
+overall|genel olarak
+intend|niyet etmek
+user|kullanıcı
+respond|yanıt vermek
+dinner|akşam yemeği
+slow|yavaş
+regular|düzenli
+physical|fiziksel
+apart|ayrı, -den ayrı
+suit|takım elbise, uymak
+federal|federal
+reveal|ortaya çıkarmak
+percentage|yüzde, oran
+peace|barış
+status|durum, statü
+crime|suç
+decline|azalmak, reddetmek, düşüş
+decade|on yıl
+launch|başlatmak, fırlatmak
+warn|uyarmak
+consumer|tüketici
+favor|iyilik, lehinde olmak
+dry|kuru, kurutmak
+partner|ortak, eş
+institution|kurum
+spot|nokta, leke, fark etmek
+horse|at
+eventually|sonunda
+heat|ısı, ısıtmak
+excite|heyecanlandırmak
+reader|okuyucu
+importance|önem
+distance|mesafe
+guide|rehber, yol göstermek
+grant|hibe, vermek
+taxi|taksi
+feed|beslemek
+pain|ağrı, acı
+sector|sektör
+mistake|hata
+ensure|sağlamak, garanti etmek
+satisfy|tatmin etmek, memnun etmek
+chief|baş, şef
+cool|serin, havalı
+expert|uzman
+wave|dalga, el sallamak
+south|güney
+labor|emek, işgücü
+surface|yüzey
+library|kütüphane
+excellent|mükemmel
+edge|kenar
+camp|kamp
+audience|seyirci, izleyici
+lift|kaldırmak, asansör
+procedure|prosedür, işlem
+email|e-posta
+global|küresel
+struggle|mücadele etmek, mücadele
+advertise|reklam yapmak
+select|seçmek
+surround|çevrelemek, kuşatmak
+extent|ölçü, kapsam
+river|nehir
+annual|yıllık
+fully|tamamen
+contrast|karşıtlık, tezat
+roll|yuvarlamak, rulo
+reality|gerçeklik
+photograph|fotoğraf
+artist|sanatçı
+conflict|çatışma
+entire|tüm, bütün
+presence|varlık, huzur
+crowd|kalabalık
+corner|köşe
+gas|gaz, benzin
+shift|vardiya, değişim, kaydırmak
+net|ağ, net
+category|kategori
+secretary|sekreter
+defense|savunma
+quick|hızlı
+cook|yemek pişirmek, aşçı
+spread|yaymak, yayılmak
+nuclear|nükleer
+scale|ölçek, tartı
+driver|sürücü
+ball|top
+cry|ağlamak, bağırmak
+introduction|giriş, tanıtım
+requirement|gereklilik
+north|kuzey
+confirm|onaylamak
+senior|kıdemli, üst düzey
+photo|fotoğraf
+refuse|reddetmek
+transport|ulaşım, taşımak
+emerge|ortaya çıkmak
+map|harita
+concept|kavram
+island|ada
+reform|reform
+neither|hiçbiri, ne o ne bu
+football|futbol
+survive|hayatta kalmak
+flight|uçuş
+left|sol; ayrıldı, bıraktı (leave)
+solve|çözmek
+neighbor|komşu
+background|arka plan, geçmiş
+technique|teknik
+traffic|trafik
+improvement|gelişme, iyileşme
+tool|alet, araç
+consequence|sonuç
+circumstance|durum, koşul
+smoke|duman, sigara içmek
+reaction|tepki
+rain|yağmur, yağmak
+busy|meşgul
+lesson|ders
+brain|beyin
+mass|kitle, kütle
+funny|komik
+contribute|katkıda bulunmak
+failure|başarısızlık
+schedule|program, takvim
+speaker|konuşmacı, hoparlör
+bottom|alt, dip
+adopt|benimsemek, evlat edinmek
+combine|birleştirmek
+mountain|dağ
+waste|israf etmek, atık
+hide|saklanmak, saklamak
+marriage|evlilik
+ticket|bilet
+meal|öğün, yemek
+colleague|meslektaş
+bag|çanta, torba
+repeat|tekrarlamak
+equal|eşit
+expression|ifade, deyim
+plus|artı
+extremely|son derece
+owner|sahip
+plane|uçak
+commercial|ticari, reklam
+lady|hanımefendi, bayan
+duty|görev, vergi
+strength|güç, kuvvet
+connect|bağlamak
+cultural|kültürel
+arrange|düzenlemek, ayarlamak
+scheme|plan, düzen
+payment|ödeme
+unfortunately|maalesef
+brief|kısa, özet
+bird|kuş
+demonstrate|göstermek, gösteri yapmak
+contribution|katkı
+appreciate|takdir etmek
+chapter|bölüm
+secret|sır, gizli
+apparently|görünüşe göre
+novel|roman
+union|birlik, sendika
+burn|yanmak, yakmak
+trend|eğilim, trend
+initial|ilk, baş harf
+pleasure|zevk, memnuniyet
+suggestion|öneri
+critical|kritik, eleştirel
+gather|toplamak, toplanmak
+mostly|çoğunlukla
+earth|dünya, toprak
+pop|patlamak, pop
+essential|gerekli, temel
+desire|arzu, istemek
+promote|tanıtmak, terfi ettirmek
+currently|şu anda
+employ|işe almak
+path|patika, yol
+topic|konu
+beach|plaj, sahil
+attract|çekmek
+engage|meşgul etmek, katılmak
+powerful|güçlü
+flower|çiçek
+crisis|kriz
+settle|yerleşmek, çözmek
+boat|tekne
+aid|yardım
+fan|hayran, vantilatör
+kitchen|mutfak
+twice|iki kez
+fresh|taze
+delay|gecikme, geciktirmek
+safety|güvenlik
+engineer|mühendis
+quiet|sessiz
+insurance|sigorta
+nurse|hemşire
+divide|bölmek
+length|uzunluk
+investigation|soruşturma, araştırma
+package|paket
+somewhere|bir yerde
+expand|genişlemek
+commit|işlemek (suç), adamak
+obvious|belli, apaçık
+jump|zıplamak
+weapon|silah
+relatively|nispeten
+host|ev sahibi, sunucu
+winter|kış
+district|bölge, ilçe
+broad|geniş
+tire|lastik, yormak
+spring|ilkbahar, yay, kaynak
+spirit|ruh
+lunch|öğle yemeği
+actual|gerçek, asıl
+pool|havuz
+battle|savaş, muharebe
+tradition|gelenek
+cash|nakit
+hardly|neredeyse hiç
+award|ödül, ödüllendirmek
+coach|antrenör, otobüs
+experiment|deney
+consideration|değerlendirme, düşünce
+strange|garip, tuhaf
+code|kod, şifre
+possibly|muhtemelen, belki
+threat|tehdit
+accident|kaza
+impossible|imkânsız
+revenue|gelir
+enable|mümkün kılmak
+afraid|korkmuş
+active|aktif, etkin
+conclude|sonuçlandırmak, sonucuna varmak
+religious|dini, dindar
+cancer|kanser
+convince|ikna etmek
+vary|değişmek, farklılık göstermek
+environmental|çevresel
+sun|güneş
+healthy|sağlıklı
+blow|üflemek, darbe
+volume|hacim, ses seviyesi, cilt
+location|konum, yer
+invest|yatırım yapmak
+proceed|ilerlemek, devam etmek
+wash|yıkamak
+actor|aktör, oyuncu
+glad|memnun
+tape|bant, kaset
+whereas|oysa, -iken
+opposite|karşı, zıt
+stone|taş
+sum|toplam, meblağ
+murder|cinayet, öldürmek
+monitor|ekran, izlemek
+soldier|asker
+finance|finans
+hate|nefret etmek
+egg|yumurta
+concert|konser
+shock|şok
+comfortable|rahat
+usual|olağan, her zamanki
+carefully|dikkatlice
+pack|paket, toplamak (bavul)
+recall|hatırlamak, geri çağırmak
+wine|şarap
+camera|kamera, fotoğraf makinesi
+swim|yüzmek
+manufacture|üretmek, imalat
+theater|tiyatro
+cycle|döngü, bisiklet sürmek
+coffee|kahve
+totally|tamamen
+museum|müze
+visitor|ziyaretçi
+freedom|özgürlük
+construction|inşaat, yapı

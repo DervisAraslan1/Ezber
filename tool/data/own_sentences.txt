@@ -1,0 +1,41 @@
+sex|What is the sex of the baby?|Bebeğin cinsiyeti ne?
+sector|She works in the health sector.|Sağlık sektöründe çalışıyor.
+left|Turn left at the next street.|Bir sonraki sokaktan sola dön.
+component|This is the main component of the machine.|Bu, makinenin ana bileşeni.
+provision|The provision of clean water is very important.|Temiz su sağlanması çok önemli.
+sexual|The law protects people from sexual violence.|Yasa insanları cinsel şiddetten korur.
+notion|I have no notion of what he means.|Ne demek istediği hakkında hiçbir fikrim yok.
+via|We flew to London via Paris.|Londra'ya Paris üzerinden uçtuk.
+furthermore|The car is cheap; furthermore, it is very safe.|Araba ucuz; üstelik çok güvenli.
+secondly|Firstly, it is cheap; secondly, it is fast.|Birincisi ucuz, ikincisi hızlı.
+criteria|What are the criteria for this job?|Bu işin kriterleri neler?
+respectively|Tom and Ali are ten and twelve, respectively.|Tom ve Ali sırasıyla on ve on iki yaşındalar.
+representation|Every region needs fair representation.|Her bölgenin adil temsile ihtiyacı var.
+stem|The flower has a long green stem.|Çiçeğin uzun yeşil bir sapı var.
+mode|Put your phone in silent mode.|Telefonunu sessiz moda al.
+competitor|Our main competitor lowered its prices.|Ana rakibimiz fiyatlarını düşürdü.
+subsequent|Subsequent tests gave the same result.|Sonraki testler aynı sonucu verdi.
+frequency|The frequency of accidents has decreased.|Kazaların sıklığı azaldı.
+establishment|The establishment of the school took two years.|Okulun kurulması iki yıl sürdü.
+characterize|How would you characterize your boss?|Patronunu nasıl nitelendirirsin?
+clinical|The drug is still in clinical trials.|İlaç hâlâ klinik deneme aşamasında.
+segment|This segment of the market is growing.|Pazarın bu bölümü büyüyor.
+compound|Salt is a chemical compound.|Tuz kimyasal bir bileşiktir.
+versus|It is the old versus the new.|Bu, eskiye karşı yeni.
+clause|Read this clause of the contract carefully.|Sözleşmenin bu maddesini dikkatlice oku.
+chamber|The king entered the large chamber.|Kral büyük odaya girdi.
+consequently|He missed the bus; consequently, he was late.|Otobüsü kaçırdı, sonuç olarak geç kaldı.
+whilst|He read a book whilst he waited.|Beklerken kitap okudu.
+constraint|Time is our biggest constraint.|Zaman en büyük kısıtımız.
+allege|They allege that he stole the money.|Parayı çaldığını iddia ediyorlar.
+craft|Carpet making is a traditional craft.|Halı dokumacılığı geleneksel bir zanaattır.
+complexity|The complexity of the task surprised us.|Görevin karmaşıklığı bizi şaşırttı.
+supplement|She takes a vitamin supplement every day.|Her gün vitamin takviyesi alıyor.
+institutional|The bank has many institutional investors.|Bankanın çok sayıda kurumsal yatırımcısı var.
+subsequently|He left the firm and subsequently started his own.|Şirketten ayrıldı ve daha sonra kendi şirketini kurdu.
+alongside|I worked alongside him for ten years.|On yıl onunla birlikte çalıştım.
+module|You must finish this module before the next one.|Bir sonrakinden önce bu modülü bitirmelisin.
+holder|Only the ticket holder can enter.|Yalnızca bilet sahibi girebilir.
+found|Her grandfather helped found this school.|Dedesi bu okulun kurulmasına yardım etti.
+rose|He gave her a red rose.|Ona kırmızı bir gül verdi.
+wound|The wound on his arm healed quickly.|Kolundaki yara çabuk iyileşti.
