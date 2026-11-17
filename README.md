@@ -2,6 +2,10 @@
 
 İngilizcenin en sık kullanılan 2800 kelimesini telefonda kalıcı olarak ezberleten Android uygulaması. Hesap ve sunucu yok, uygulamanın internet izni de yok; ilerleme yalnızca telefonda durur.
 
+## İndir
+
+APK: [dervisaraslan1.github.io/indirmeler](https://dervisaraslan1.github.io/indirmeler/). Mağazada değil, elden kurulur.
+
 ## Nasıl çalışır
 
 - **Aralıklı tekrar (FSRS-5):** Her kart, hatırlama ihtimalin %90'a düşeceği gün geri gelir.
