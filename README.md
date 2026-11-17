@@ -39,3 +39,7 @@ flutter build apk --release
 ## İmzalama
 
 Yayın anahtarı repoda durmaz: `C:\Users\Omega\.ezber-imza\`. Derleme `android/key.properties` dosyasını okur. Dosya yoksa release imzasız kalır. Anahtar kaybolursa hiçbir sürüm mevcut kurulumun üstüne kurulamaz. Her yayında `pubspec.yaml` içindeki `+` sonrasını artır.
+
+## Lisans
+
+MIT. Ayrıntılar [LICENSE](LICENSE) dosyasında.
