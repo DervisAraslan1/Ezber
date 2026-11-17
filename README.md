@@ -2,6 +2,8 @@
 
 İngilizcenin en sık kullanılan 2800 kelimesini telefonda kalıcı olarak ezberleten Android uygulaması. Hesap ve sunucu yok, uygulamanın internet izni de yok; ilerleme yalnızca telefonda durur.
 
+![Ezber ekranları: bugün, kart, cevap, kelimeler, ilerleme](docs/ekranlar.png)
+
 ## İndir
 
 APK: [dervisaraslan1.github.io/indirmeler](https://dervisaraslan1.github.io/indirmeler/). Mağazada değil, elden kurulur.
